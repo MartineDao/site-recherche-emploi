@@ -1,0 +1,63 @@
+h1 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#p1pgindex {
+    border-style: solid;
+    border-radius: 15px;
+    border-color: rgb(110, 243, 243);
+    text-align: center;
+    font-size: x-large;
+    word-spacing: 5cm;
+    background-color: aqua;
+}
+
+a {
+    text-decoration: none;
+    color: brown;
+    font-weight: bolder;
+    padding: auto;
+}
+
+h4 {
+    color: brown;
+}
+
+body {
+    background-color: rgba(244, 248, 247, 0.979);
+    font-family: Georgia;
+}
+
+h3 {
+    color: rgba(148, 38, 38, 0.878);
+    font-style: oblique;
+}
+
+#h1services {
+    font-style: oblique;
+    color: rgb(179, 61, 61);
+}
+
+#p1pgservice {
+    text-align: right;
+    word-spacing: 0.2cm;
+}
+
+i.fa-facebook {
+    color: blue;
+    font-size: 32px;
+    font-weight: bold;
+    background-color: aqua;
+}
+
+i.fa-youtube {
+    color: rgb(232, 22, 22);
+}
+i.fa-location-dot{
+    color:red ;
+}
