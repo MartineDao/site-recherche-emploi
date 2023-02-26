@@ -3,10 +3,6 @@ h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-p {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-
 #p1pgindex {
     border-style: solid;
     border-radius: 15px;
@@ -30,7 +26,7 @@ h4 {
 
 body {
     background-color: rgba(244, 248, 247, 0.979);
-    font-family: Georgia;
+   font-family: "Poppins";
 }
 
 h3 {
@@ -52,12 +48,28 @@ i.fa-facebook {
     color: blue;
     font-size: 32px;
     font-weight: bold;
-    background-color: aqua;
+    font-size: 30px;
 }
 
 i.fa-youtube {
     color: rgb(232, 22, 22);
+    font-size: 30px;
 }
-i.fa-location-dot{
-    color:red ;
+
+i.fa-location-dot {
+    color: red;
+    font-size: 30px;
+    margin-left: 1cm;
+    margin-top: -1cm;
+}
+
+input.info {
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+}
+
+#submit {
+    border-radius: 3px;
+    background-color: aqua;
 }
